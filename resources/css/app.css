@@ -1,0 +1,10 @@
+.reaction-liked {
+    color:blue;
+}
+.btn-google {
+    background-color: #dd4b39;
+    color: #fff;
+}
+.btn-google:hover {
+    background-color: #d14836;
+}
